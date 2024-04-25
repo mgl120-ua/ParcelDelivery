@@ -1,0 +1,9 @@
+{
+    "java.home": "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath\\java.exe"
+        }
+    ]
+}
